@@ -11,3 +11,9 @@ TensorFlow
 Keras
 NumPy
 Matplotlib
+
+#### Data Source
+The MNIST dataset, containing 70,000 images of handwritten digits (0-9), is often used. Each image is a 28x28 pixel grayscale representation of a digit.
+
+#### Loading the Data
+The MNIST dataset can be loaded directly from their respective dataset collections using libraries like TensorFlow or Keras.
